@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cart.github.io/static/css/main.e5d1a934.css",
+    "main.js": "/cart.github.io/static/js/main.f2beb189.js",
+    "static/media/shopping-icon.webp": "/cart.github.io/static/media/shopping-icon.c6046e507a7fe2ca9b90.webp",
+    "index.html": "/cart.github.io/index.html",
+    "main.e5d1a934.css.map": "/cart.github.io/static/css/main.e5d1a934.css.map",
+    "main.f2beb189.js.map": "/cart.github.io/static/js/main.f2beb189.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5d1a934.css",
+    "static/js/main.f2beb189.js"
+  ]
+}
